@@ -1,14 +1,19 @@
-# Sales-Dashboard-Using-Power-BI
+# 📦 Stock-Report-Using-Power-BI
 
-* In this project, i have made a intractive Power BI Sales Dashboard on Global_super_store sales data and find some insights from the data. In order to building the dashboard the ETL process was done as per the requirements, Power query was used to clean and transform the data and DAX was used for creating the culculated measures and culculated column.
-* Once done with the culculations, i have made visualizations and create report using cards, charts, slicer etc.
-* Which help to easy understanding of the end-user and give meaningful insights.
+* In this project, I developed an **interactive Power BI Stock Report** using the **Stock Report** dataset to uncover key inventory and stock-related insights.  
+* As part of the dashboard-building process, I performed the **ETL (Extract, Transform, Load)** steps using **Power Query** to clean and shape the data.  
+* I used **DAX** (Data Analysis Expressions) to create calculated columns and measures essential for inventory analysis.  
+* After completing the calculations, I designed visualizations using **cards, charts, slicers**, and other Power BI components to build an intuitive and informative report.  
+* The dashboard helps end-users easily interpret stock trends and make data-driven decisions.
 
+---
 
-## Tools and Technology used-
-#### 1. Microsoft Power BI
-#### 2. MS Excel
+## 🛠 Tools and Technologies Used
+#### 1. Microsoft Power BI  
+#### 2. Microsoft Power Query  
+#### 3. ETL.py 
 
+---
 
-## Data Source used- 
-* Kaggle- https://www.kaggle.com/datasets/tahir1413/global-superstore-2016
+## 📁 Preview
+![image](Stock Report/Screenshot 130906.png)
