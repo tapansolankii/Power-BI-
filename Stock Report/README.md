@@ -16,4 +16,4 @@
 ---
 
 ## 📁 Preview
-![image]([Stock Report/Screenshot 130906.png](https://github.com/tapansolankii/Power-BI-/blob/ec9b0ca3c9019393ec44ac75205662f95a3a700b/Stock%20Report/Screenshot%20130906.png))
+![image](https://github.com/tapansolankii/Power-BI-/blob/ec9b0ca3c9019393ec44ac75205662f95a3a700b/Stock%20Report/Screenshot%20130906.png)
